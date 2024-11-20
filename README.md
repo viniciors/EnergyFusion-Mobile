@@ -64,4 +64,5 @@ Este projeto foi desenvolvido com foco em soluções sustentáveis para o uso co
 Vídeo do protótipo:
 https://youtu.be/qq-QVpsvZdE
 
-Repositório
+Repositório:
+https://github.com/viniciors/EnergyFusion-Mobile.git
