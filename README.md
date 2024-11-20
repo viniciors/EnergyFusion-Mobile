@@ -66,3 +66,6 @@ https://youtu.be/qq-QVpsvZdE
 
 Repositório:
 https://github.com/viniciors/EnergyFusion-Mobile.git
+
+Canva:
+https://www.canva.com/design/DAGXCG2s1a8/wcImKiWObrjoAFbVUeamig/edit
