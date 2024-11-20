@@ -61,3 +61,7 @@ Além disso, é possível adicionar novos eletrodomésticos, atualizar e excluir
 Este projeto foi desenvolvido com foco em soluções sustentáveis para o uso consciente de energia. Contribuições e sugestões são bem-vindas para aprimorar a experiência do usuário e ampliar o escopo do aplicativo.
 
 ## Links Úteis
+Vídeo do protótipo:
+https://youtu.be/qq-QVpsvZdE
+
+Repositório
