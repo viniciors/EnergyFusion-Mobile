@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal"
+    android:background="@drawable/rectangle_background"
+    android:padding="16dp"
+    android:layout_marginBottom="8dp"
+    android:gravity="center_vertical">
+
+    <ImageView
+        android:id="@+id/icon_image"
+        android:layout_width="48dp"
+        android:layout_height="48dp"
+        android:layout_marginEnd="16dp"
+        android:contentDescription="@string/app_name" />
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/icon_text"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Nome do Eletrodoméstico"
+            android:textSize="16sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/tv_efficiency"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Eficiência Energética"
+            android:textSize="14sp" />
+
+        <TextView
+            android:id="@+id/tv_consumption"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Consumo: 0 kWh"
+            android:textSize="14sp" />
+
+        <TextView
+            android:id="@+id/tv_price"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Preço: R$0,00"
+            android:textSize="14sp" />
+    </LinearLayout>
+
+</LinearLayout>

@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "47635840149",
+    "project_id": "energyfusion-37f57",
+    "storage_bucket": "energyfusion-37f57.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:47635840149:android:0340479daa983f8745ef9c",
+        "android_client_info": {
+          "package_name": "com.example.energyfusion2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5pNnA5ExLowu1DzIZDy6FxlgajbB-hG4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
